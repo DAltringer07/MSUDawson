@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @MSUDawson
+- 👋 Hi, I’m @DAltringer07
 - 👀 I’m interested in learning how to code/program and all of the handy things that you can do with it
 - 🌱 I’m currently learning python basics
 - 💞️ I’m looking to collaborate on anything possible, i am very fresh to coding and just want to learn as much as i can 
